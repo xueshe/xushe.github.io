@@ -1,0 +1,264 @@
+{
+  "default": [
+    {
+      "expression": "*.aliyun.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "OxBkE-hyf"
+    },
+    {
+      "expression": "*.aliyundrive.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "ServiceWorkers",
+        "PluginData"
+      ],
+      "cookieNames": [],
+      "id": "bIsLcrwSl"
+    },
+    {
+      "expression": "*.baidu.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "WRte92gXR"
+    },
+    {
+      "expression": "*.bilibili.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "5WMoxgvYG"
+    },
+    {
+      "expression": "*.codegeex.cn",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "OoXZ82Lym"
+    },
+    {
+      "expression": "*.csdn.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "tePSwH6qF"
+    },
+    {
+      "expression": "*.docker.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "vjN_Yp6q1"
+    },
+    {
+      "expression": "*.doubao.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "ilvTLNJEV"
+    },
+    {
+      "expression": "*.feishu.cn",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "kpsdwRG_4"
+    },
+    {
+      "expression": "*.gitee.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "1_Mi03v1oB"
+    },
+    {
+      "expression": "*.github.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "6XfqFBSZlH"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "N0B7ER9-N"
+    },
+    {
+      "expression": "*.jd.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "Ua8nMW9nZL"
+    },
+    {
+      "expression": "*.macat.vip",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "6Y1TB-yJW"
+    },
+    {
+      "expression": "*.macked.app",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "ServiceWorkers",
+        "PluginData",
+        "LocalStorage"
+      ],
+      "cookieNames": [],
+      "id": "54qITInTg"
+    },
+    {
+      "expression": "*.oschina.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "B6Z24idt1"
+    },
+    {
+      "expression": "*.qq.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "Z974Rgobw"
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [
+        "Cache",
+        "IndexedDB",
+        "LocalStorage",
+        "PluginData",
+        "ServiceWorkers"
+      ],
+      "cookieNames": [],
+      "id": "RK375JEb6"
+    },
+    {
+      "expression": "*.zhihu.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "la7RD_o7o"
+    }
+  ]
+}
